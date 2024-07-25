@@ -31,3 +31,33 @@
    ```bash
    git clone https://github.com/yourusername/chatapp.git
    ```
+
+2. **Import Project into Eclipse**:
+   - Open Eclipse IDE.
+   - Go to File > Import.
+   - Select Existing Projects into Workspace and click Next.
+   - Browse to the cloned repository and import it.
+
+### Running the Application
+
+1. **Start the Server**:
+   - Open ChatServer.java located in src/chatapp/.
+   - Run the ChatServer class to start the server.
+
+2. **Start the Client**:
+   - Open ChatClientGUI.java located in src/chatapp/.
+   - Run the ChatClientGUI class to start the client application
+
+3. **Connect and Chat**:
+   - In the client GUI, enter a username and a chat room ID.
+   - Click Connect to join the chat room and start exchanging messages.
+  
+### Usage
+
+- **Joining a Chat Room**: Input a chat room ID and connect to join the specified room.
+- **Sending Messages**: Type messages into the text field and click Send or press Enter.
+- **Private Messaging**: Use the /pm command followed by the recipient's username and the message text to send private messages.
+- **Viewing Message History**: Use the /history command to retrieve and display the message history of the current chat room.
+
+
+---
