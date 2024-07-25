@@ -38,7 +38,7 @@
    - Select Existing Projects into Workspace and click Next.
    - Browse to the cloned repository and import it.
 
-### Running the Application
+## Running the Application
 
 1. **Start the Server**:
    - Open ChatServer.java located in src/chatapp/.
@@ -52,7 +52,7 @@
    - In the client GUI, enter a username and a chat room ID.
    - Click Connect to join the chat room and start exchanging messages.
   
-### Usage
+## Usage
 
 - **Joining a Chat Room**: Input a chat room ID and connect to join the specified room.
 - **Sending Messages**: Type messages into the text field and click Send or press Enter.
