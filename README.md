@@ -17,3 +17,6 @@ A simple real-time chat application with GUI, implemented in Java.
 cd src/chatapp
 javac ChatServer.java
 java ChatServer
+
+
+---
