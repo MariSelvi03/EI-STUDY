@@ -1,6 +1,6 @@
 # Real-time-Chat-Application
 
-Chat Application is a real-time Java-based chat system with features like public and private messaging, chat rooms, and message history. It includes a server and client GUI to facilitate seamless communication.
+This Java-based chat application enables users to communicate in real-time by joining or creating chat rooms, sending and receiving messages, and viewing active users. It features both server-side and client-side components.
 
 ## Features
 - Real-time messaging
