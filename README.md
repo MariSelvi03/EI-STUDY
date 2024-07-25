@@ -7,7 +7,6 @@
 - **Real-Time Messaging**: Instantly send and receive messages within chat rooms.
 - **Chat Rooms**: Users can join and interact in specific chat rooms identified by unique IDs.
 - **Private Messaging**: Send private messages to other users within the same chat room.
-- **Message History**: Retrieve and display previous messages from a chat room.
 - **User-Friendly GUI**: Provides a graphical interface using Swing for an intuitive user experience.
 
 ## Components
@@ -41,11 +40,11 @@
 ## Running the Application
 
 1. **Start the Server**:
-   - Open ChatServer.java located in src/chatapp/.
+   - Open ChatServer.java .
    - Run the ChatServer class to start the server.
 
 2. **Start the Client**:
-   - Open ChatClientGUI.java located in src/chatapp/.
+   - Open ChatClientGUI.java .
    - Run the ChatClientGUI class to start the client application
 
 3. **Connect and Chat**:
@@ -54,10 +53,8 @@
   
 ## Usage
 
-- **Joining a Chat Room**: Input a chat room ID and connect to join the specified room.
+- **Joining a Chat Room**: Type in a chat room ID and connect to join the specified room.
 - **Sending Messages**: Type messages into the text field and click Send or press Enter.
 - **Private Messaging**: Use the /pm command followed by the recipient's username and the message text to send private messages.
-- **Viewing Message History**: Use the /history command to retrieve and display the message history of the current chat room.
-
 
 ---
