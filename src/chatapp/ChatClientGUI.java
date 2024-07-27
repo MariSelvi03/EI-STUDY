@@ -219,4 +219,3 @@ public class ChatClientGUI extends JFrame {
         });
     }
 }
-
